@@ -1,0 +1,5 @@
+clc,clear,close
+function m=ornek
+a=[10 21;42 54];
+b=reshape(a.',1,[])
+
